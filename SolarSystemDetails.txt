@@ -1,0 +1,12 @@
++ Order of planets (with respect to the sun):
+
+[0]Sun
+[1]Mercury -> [2]Venus -> [3]Earth (Moon) -> [4]Mars (Phobos) -> [5]Jupiter (Europa) -> [6]Saturn (Titan) -> [7]Uranus (Ariel) -> [8]Neptune (Triton) -> [9]Pluto (Charon)
+
++ Planets and moons:
+- All planets but two (Mercury and Venus) have moons. 
+- Earth and Pluto have 1 each,
+- Mars has 2, Neptune has 8,
+- Uranus has 15,
+- Jupiter 16 (Jupiter's largest moon is larger than the planet Mercury),
+- and Saturn 19.

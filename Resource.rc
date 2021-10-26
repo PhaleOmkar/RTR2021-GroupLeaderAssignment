@@ -1,0 +1,27 @@
+// Headers File Declaration
+#include "headers/Resources.h"
+
+DEFAULT_LARGE_ICON      ICON    resources/textures/default_large_icon.ico
+
+SUN_BITMAP      BITMAP  resources/textures/0_sun.bmp
+MERCURY_BITMAP  BITMAP  resources/textures/1_mercury.bmp
+VENUS_BITMAP    BITMAP  resources/textures/2_venus.bmp
+EARTH_BITMAP    BITMAP  resources/textures/3.0_earth.bmp
+MOON_BITMAP     BITMAP  resources/textures/3.1_moon.bmp
+MARS_BITMAP     BITMAP  resources/textures/4.0_mars.bmp
+PHOBOS_BITMAP   BITMAP  resources/textures/4.1_phobos.bmp
+JUPITER_BITMAP  BITMAP  resources/textures/5.0_jupiter.bmp
+EUROPA_BITMAP   BITMAP  resources/textures/5.1_europa.bmp
+SATURN_BITMAP   BITMAP  resources/textures/6.0_saturn.bmp
+TITAN_BITMAP    BITMAP  resources/textures/6.1_titan.bmp
+URANUS_BITMAP   BITMAP  resources/textures/7.0_uranus.bmp
+ARIEL_BITMAP    BITMAP  resources/textures/7.1_ariel.bmp
+NEPTUNE_BITMAP  BITMAP  resources/textures/8.0_neptune.bmp
+TRITON_BITMAP   BITMAP  resources/textures/8.1_triton.bmp
+
+/*
+PLUTO_BITMAP    BITMAP  resources/textures/9.0_pluto.bmp
+CHARON_BITMAP   BITMAP  resources/textures/9.1_charon.bmp
+*/
+
+SEA_OF_TIME_BGM_WAVE   WAVE  resources/audio/SeaOfTime.wav
